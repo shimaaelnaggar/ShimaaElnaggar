@@ -27,8 +27,8 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007ACC)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobe%20XD&logoColor=007ACC)&nbsp;
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
