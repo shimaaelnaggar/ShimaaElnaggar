@@ -28,6 +28,11 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007ACC)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman&logoColor=007ACC)&nbsp;
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shimaaelnaggar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaaelnaggar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shimaaelnaggar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
