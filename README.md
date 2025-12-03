@@ -1,50 +1,62 @@
-<h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Shimaa, Welcome To My Github Profile ♥
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<h1 align="center">Hi there 👋, I'm Shimaa Ibrahim</h1>
+<h3 align="center">Flutter Developer | Mobile UI/UX Enthusiast</h3>
 
+---
 
-<h3>🚀 About Me</h3> 
-  <ul>
-<li> 👋 Hi, I’m Shimaa Elnaggar, a passionate Flutter Developer who loves building scalable and beautiful mobile apps using Flutter, Dart, and Firebase.</li>
-<li> 🌟 I focus on writing clean, maintainable code and applying modern architectures like BLoC and MVVM.</li>
-<li> 💼 I’ve also completed a 6-month Web Development training at ITI, which enhanced my understanding frontend development principles.</li>
-<li> 🚀 I’m currently working on real-world Flutter projects and improving my portfolio to publish my first app on the Play Store.</li>
-<li> 📫 Reach me at: <a href="shimaaibrahim072@gmail.com">shimaaibrahim072@gmail.com</a>.</li>
- </ul>
+## 💫 About Me  
+🛠 I’m currently working on building **Flutter mobile applications** using **Clean Architecture** & **Bloc State Management**.  
+🤝 I’m looking to collaborate on **open-source Flutter projects** & **UI challenges**.  
+🤝‍🧑 I’m looking for help with **landing my first Flutter internship / junior role** and improving my portfolio.  
+🌱 I’m currently learning **Bloc**, **Clean Architecture**, and advanced mobile app structuring.  
+💬 Ask me about **Flutter, Dart, UI/UX for mobile apps**, and how to structure real-world apps.  
+⚡ Fun fact: I enjoy creating clean mobile UIs — and yes, I can spend 1 hour fixing a single padding 😄  
+📫 Reach me at: **shimaaibrahim072@gmail.com**
 
-## 🔗Contact Me
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/)]([https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/](https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/))
+---
 
-### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007ACC)&nbsp;
-![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobe%20XD&logoColor=007ACC)&nbsp;
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/)  
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17471728/shimaa-ibrahim)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shimaaibrahim07)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimaaibrahim072@gmail.com)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shimaaelnaggar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaaelnaggar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
+# 💻 Tech Stack
+
+### **Mobile Development**
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+
+### **Tools**
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+### **Design**
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)
+
+### **Extra (Basics)**
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+
+---
+
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=shimaaelnaggar&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaaelnaggar&theme=dark&hide_border=false&layout=compact)
+
+---
+
+### 🔝 Top Contributed Repos  
 ![](https://github-contributor-stats.vercel.app/api?username=shimaaelnaggar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=shimaaelnaggar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
-<br/>
--->
-
