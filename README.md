@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Shimaa Ibrahim</h1>
-<h3 align="center">Flutter Developer | Mobile UI/UX Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm Shimaa Elnaggar</h1>
+<h3 align="center"> Flutter Developer </h3>
 
 ---
 
@@ -8,17 +8,17 @@
 🤝 I’m looking to collaborate on **open-source Flutter projects** & **UI challenges**.  
 🤝‍🧑 I’m looking for help with **landing my first Flutter internship / junior role** and improving my portfolio.  
 🌱 I’m currently learning **Bloc**, **Clean Architecture**, and advanced mobile app structuring.  
-💬 Ask me about **Flutter, Dart, UI/UX for mobile apps**, and how to structure real-world apps.  
-⚡ Fun fact: I enjoy creating clean mobile UIs — and yes, I can spend 1 hour fixing a single padding 😄  
+💬 Ask me about **Flutter, Dart, UI/UX for mobile apps**, and how to structure real-world apps.   
 📫 Reach me at: **shimaaibrahim072@gmail.com**
 
 ---
 
 ## 🌐 Socials  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimaaibrahim072@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/)  
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17471728/shimaa-ibrahim)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shimaaibrahim07)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimaaibrahim072@gmail.com)  
+
 
 ---
 
