@@ -14,10 +14,7 @@
 ---
 
 ## 🌐 Socials  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimaaibrahim072@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/)  
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17471728/shimaa-ibrahim)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shimaaibrahim07)  
+<p align="left"> <a href="https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /> </a> <a href="https://stackoverflow.com/users/17471728/shimaa-ibrahim"> <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /> </a> <a href="https://youtube.com/@@shimaaibrahim07"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /> </a> <a href="mailto:shimaaibrahim072@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /> </a> </p>
 
 
 ---
