@@ -116,6 +116,4 @@ An educational app for structured learning content and user management using Sup
 To become a professional Flutter Developer capable of building production-ready mobile applications that scale and perform efficiently in real-world environments.
 
 ---
-To become a professional Flutter Developer capable of building production-ready mobile applications that scale and perform efficiently in real-world environments.
 
----
