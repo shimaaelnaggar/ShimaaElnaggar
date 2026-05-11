@@ -68,7 +68,7 @@ A business management application for handling products, sales, invoices, and in
 ### 💬 Social Media App
 A full social platform with user authentication, posts, likes, comments, and real-time interactions.
 
-### 🎓 EduVesta (Firebase Version)
+### 🎓 EduVesta 
 An educational platform built using Firebase for authentication and data management.
 
 ### 🍲 Recipe Finder App
@@ -76,22 +76,6 @@ A recipe discovery app with API integration, search functionality, and clean UI 
 
 ### 🏫 CS Academy
 An educational app for structured learning content and user management using Supabase.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimaaelnaggar&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaaelnaggar&layout=compact&theme=dark" />
-</p>
 
 ---
 
