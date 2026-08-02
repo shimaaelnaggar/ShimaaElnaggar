@@ -1,57 +1,42 @@
-<h1 align="center">Hi 👋, I'm Shimaa Elnaggar</h1>
-<h3 align="center">Flutter Developer | Building Scalable Mobile Applications</h3>
+<h1 align="center">Hi 👋, I'm Shaimaa Elnaggar</h1>
+<h3 align="center">Flutter Developer | Computer Engineering Graduate</h3>
+
+<p align="center">
+Passionate Flutter developer focused on building clean, scalable mobile applications using Flutter & Dart.
+Currently improving my architecture, state management, and problem-solving skills while actively building real-world projects.
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I am a Flutter Developer passionate about building real-world mobile applications using clean, scalable, and maintainable architecture.
-
-I specialize in:
-- 📱 Flutter app development
-- 🧠 Clean Architecture & SOLID principles
-- 🔄 State Management (Bloc)
-- 🔥 Backend integration (Firebase & Supabase)
-
-I enjoy turning ideas into functional and user-friendly mobile apps that solve real problems.
-
-📫 **Contact:** shimaaibrahim072@gmail.com
+- 🎓 Computer Engineering Graduate.
+- 💙 Flutter Developer with experience building mobile applications using Flutter & Dart.
+- 👩‍🏫 Python Programming Instructor at iSchool (Digital Egypt Cubs Initiative).
+- 📱 Interested in Clean Architecture, MVVM, Bloc/Cubit and Firebase.
+- 🚀 Currently building real-world Flutter applications with development teams.
+- 🌱 Continuously improving through personal projects and interview preparation.
 
 ---
 
-## 💼 What I Do
-
-- Develop cross-platform mobile apps using Flutter
-- Build structured apps using Clean Architecture
-- Integrate REST APIs, Firebase, and Supabase
-- Design responsive and clean UI/UX
-- Manage complex app state using Bloc
-
----
-
-## 🧠 Currently Learning
-
-- Advanced Bloc patterns
-- Scalable architecture for large applications
-- Performance optimization in Flutter apps
-- Backend system design for mobile apps
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Mobile Development
 - Flutter
 - Dart
+
+### State Management
 - Bloc / Cubit
-- Provider (basic)
+- Provider
 
 ### Backend & Database
-- Firebase (Auth, Firestore, Storage)
-- Supabase
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- SQLite
 - REST APIs
 
-### Tools & Platforms
+### Tools
 - Git & GitHub
 - Android Studio
 - VS Code
@@ -60,44 +45,78 @@ I enjoy turning ideas into functional and user-friendly mobile apps that solve r
 
 ---
 
-## 📱 Featured Projects
+## 🚀 Featured Projects
 
-### 🧾 Easy POS System
-A business management application for handling products, sales, invoices, and inventory with a structured architecture.
+### 🛒 Easy POS
+Point of Sale application for managing products, categories, customers and sales using SQLite.
 
-### 💬 Social Media App
-A full social platform with user authentication, posts, likes, comments, and real-time interactions.
+**Tech:** Flutter, SQLite
 
-### 🎓 EduVesta 
-An educational platform built using Firebase for authentication and data management.
-
-### 🍲 Recipe Finder App
-A recipe discovery app with API integration, search functionality, and clean UI design.
-
-### 🏫 CS Academy
-An educational app for structured learning content and user management using Supabase.
+🔗 Repository:
+<https://github.com/shimaaelnaggar/easy-pos-r5>
 
 ---
 
-## 🌍 Connect With Me
+### 📱 Social Media App
+A social networking application where users can register, create posts with images, like posts, comment, search posts, and manage their profile.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shimaaibrahim072@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/17471728/shimaa-ibrahim">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-</p>
+**Tech:** Flutter, Firebase
+
+🔗 Repository:
+<https://github.com/shimaaelnaggar/social_media_app>
 
 ---
 
-## 💡 Goal
+### 🎓 EduEval (Graduation Project)
+University E-learning platform that allows students to access lectures, take timed quizzes, receive notifications, and track their academic progress. Instructors can manage lectures, exams, and student results.
 
-To become a professional Flutter Developer capable of building production-ready mobile applications that scale and perform efficiently in real-world environments.
+**Tech:** Flutter, Firebase, Bloc
+
+🔗 Repository:
+<https://github.com/shimaaelnaggar/edu_eval>
 
 ---
 
+### 📚 EduVesta
+An online learning platform where users can browse courses, watch educational videos, and enroll in learning content.
+
+**Tech:** Flutter, Firebase, Bloc
+
+🔗 Repository:
+<https://github.com/shimaaelnaggar/Edu_Vesta>
+
+---
+
+## 💼 Experience
+
+### Python Programming Instructor
+**iSchool – Digital Egypt Cubs Initiative**
+
+- Delivered Python programming sessions for school students.
+- Guided students through hands-on coding activities and projects.
+- Helped students build problem-solving and programming fundamentals.
+
+---
+
+## 📈 Currently Learning
+
+- Clean Architecture
+- MVVM Architecture
+- Advanced Bloc
+- Flutter Performance
+- Testing
+- CI/CD
+- Deployment
+- Technical Interview Preparation
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: <https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/>
+- GitHub: https://github.com/shimaaelnaggar
+- Email: shimaaibrahim072@gmail.com
+
+---
+
+⭐ I'm currently looking for a Flutter Internship or Junior Flutter Developer opportunity where I can contribute, learn, and grow.
